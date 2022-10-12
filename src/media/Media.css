@@ -1,0 +1,12 @@
+.card-news {
+    width: 17rem;
+}
+
+.card-text {
+    font-size: 12px;
+}
+
+iframe {
+    border:0;
+    border-radius: 5px;
+}

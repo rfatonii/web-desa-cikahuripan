@@ -1,0 +1,23 @@
+/* nav {
+    background-color: rgb(230, 230, 230);
+} */
+
+.btn-search {
+    border-radius: 5px;
+    background-color: rgb(28, 206, 28);
+    color: white;
+    border: none;
+}
+
+.btn-search:hover {
+    background-color: rgb(66, 184, 66);
+    /* transition: 0.8ms; */
+}
+
+hr {
+    margin: 5px;
+}
+
+footer, nav {
+    background: rgb(28, 151, 34);
+}
